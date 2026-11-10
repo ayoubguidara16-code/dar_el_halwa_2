@@ -40,5 +40,17 @@ Question 8 : le texte disparait quan l'utilsateur commencer a ecrire . le lecteu
 
 Question 9 : la validation est faite par le navigateur cote cilent elle peut etre modifiee out supprimee par l'utlisateur
 
-Probleme rencontre:
-1
+### Types de champs HTML5 utilises
+
+-text :nom , prenom, code postal,message sur le gateau
+-email :email
+-tel :telephone
+-url : site web or page instagram
+-radio :occasion
+-checkbox :parfums souhaite
+-date :date de retrait
+-time :heure de retrait
+-number :nombre de parts
+-range :Niveau sucre
+-color :couleur de gateau
+-file :photo de modele

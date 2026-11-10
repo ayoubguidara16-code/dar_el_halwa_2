@@ -85,6 +85,10 @@
                         <option value="Zaghouan">Zaghouan</option>
                     </select>
                 </p>
+                <p>
+                    <label for="site">Site Web ou page instagram</label>
+                    <input type="url" name="site" id="site">
+                </p>
             </fieldset>
 
             <fieldset>
@@ -111,6 +115,10 @@
                 <p>
                     <label for="date">Date de retrait</label>
                     <input type="date" id="date" name="date" min="2026-09-01" required>
+                </p>
+                <p>
+                    <label for="heure">Heure de retrait</label>
+                    <input type="time" id="heure" name="heure">
                 </p>
                 <p>
                     <label for="nombreP">Nombre de parts</label>
@@ -154,10 +162,15 @@
                 <p>
                     <label for="decors">Langages de decoration : </label>
                     <select multiple size="4" id="decors" name="decors[]">
-                        <option value="fleurs">Fleurs en pate a sucre</option>
-                        <option value="Fruits">Fruits frais</option>
-                        <option value="chocolat">En chocolat</option>
-                        <option value="perles">Perles sucrees</option>
+                        <optgroup label="Decors succres">
+                            <option value="fleurs">Fleurs en pate a sucre</option>
+                            <option value="chocolat">En chocolat</option>
+                            <option value="perles">Perles sucrees</option>
+                        </optgroup>
+                        <optgroup label="Decors frais">
+                            <option value="Fruits">Fruits frais</option>
+                        </optgroup>
+
                     </select>
                 </p>
                 <p>
