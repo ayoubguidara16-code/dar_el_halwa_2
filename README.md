@@ -18,4 +18,27 @@ Question 3 : rel="noopener" proteger la page originale pour qu'elle ne soit pas 
 
 Question 4 : non, ce n'est pa une erreur on ajouter le bordeur a l 'etape de mise en page avec css
 
-Question 5 :Le format WMV n'est pas compatible avec Chrome. Le format MP4 est support par tous les navigateurs
+Question 5 : Le format WMV n'est pas compatible avec Chrome. Le format MP4 est support par tous les navigateurs
+
+<!-- Tp 3  -->
+
+Question 1 : le navigatur affiche un erreur 404
+
+Question 2 : Dans le cas de get les donnes apparaissent dans l'url dand le cas de post les donnes envoyess dans le corps de la requete
+
+Question 3 : maxlength fonctioner aux type text on peut utiliser type number pour code postale avec attribute pattern
+
+Question 4 : les quatre boutons radio peuvent etre selectionness en meme temps elles sont groupe par name
+
+Question 5 : oui le choix reste obligatoire
+
+Question 6 : dans une liste deroulant la valeur est envoye au serveur n'espt pas le text dans loption
+
+Question 7 : Le formulaire est envoyé même s'il est vide. Cet attribut peut être utilisé pour les tests.
+
+Question 8 : le texte disparait quan l'utilsateur commencer a ecrire . le lecteurs d'ecron ne peuvent pas identifier les champs
+
+Question 9 : la validation est faite par le navigateur cote cilent elle peut etre modifiee out supprimee par l'utlisateur
+
+Probleme rencontre:
+1
