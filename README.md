@@ -54,3 +54,20 @@ Question 9 : la validation est faite par le navigateur cote cilent elle peut etr
 -range :Niveau sucre
 -color :couleur de gateau
 -file :photo de modele
+
+<!-- Tp 4  -->
+
+Question 1 : le couleur marron l'emporte car le style en ligne est prioritaire. sans le style en ligne la couleur depednd de l'ordre de style et link dans head
+
+Question 2 : en style en ligne et style interne je change 3 fichier html de 3 pages mais avec style externe je change 1 fichier css . consequence tout les pages ont le meme style et jen'oublie pas de change un style sur une page
+
+Qeustion 3 : je modifiees une seul ligne,il change dans plusieur attribute
+
+Question 4 : p : (0,0,1) main p : (0,0,2) .mise-en-avant(0,1,0) .mise-en-avant gagne le paragraphe est rouge . on ne fait pas une addition ,parce que les colonnes n'ont pa la meme force une classe est plus forte que beucoup d'elements. on compare colonee pare colonee de gacuche a droite
+
+Question 5 : 1. !important casse les regles normales du css . Apres , pour changer la couleur il faut encore un autre !important 2. le code devient difficile a lire et a corriger
+
+Question 6 : la largeur totale est 444px : 400px contenu 40px marge interieure 4px bordure
+
+Question 7 : La largeur totale est maintent 400px c'est le contenu qui est rogne il passe a 356 px la marge interieure et la bordure ne changnt pas
+Cette regle est en premier dans toutes les feuilles de style professionnelles parce que width donne la vraie largeur de la boite le calcul est plus simple et les elements ne depassent pad de la page
